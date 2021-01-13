@@ -1,0 +1,10 @@
+Hola de nuevo desde node :D
+
+-fs.appendFile : agrega datos a un archivo
+-fs.copyFile : copia un archivo
+-fs.mkdir : crea un directorio
+-fs.readdir : Enlista los archivos de un directorio
+-fs.readFile : Lee un archivo
+-fs.rmdir : elimina un directorio
+-fs.unlink : elimina un archivo
+-fs.writeFile : sobre escribe un archivo 
